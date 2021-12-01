@@ -20,12 +20,6 @@ body
   {
     background-color: #9F7757;
   }
-IMG.displayed
-  {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-  }
 p
   {
     font-family: sans-serif;
