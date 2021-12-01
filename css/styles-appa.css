@@ -1,0 +1,42 @@
+h1
+  {
+   color: #000000;
+   text-align: center;
+  }
+h2
+  {
+    color: #272222;
+    font-size: 32px;
+    font-style: italic;
+    text-align: center;
+  }
+h3
+  {
+    text-align:center;
+    font-size: 30px;
+  }
+
+body
+  {
+    background-color: #9F7757;
+  }
+IMG.displayed
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+p
+  {
+    font-family: sans-serif;
+    font-size: 24px;
+    text-align: center;
+  }
+ul
+  {
+    line-height: 40px;
+    font-size: 24px;
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+  }
